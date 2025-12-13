@@ -4,7 +4,8 @@
 
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-DominiqueLoyer-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/DominiqueLoyer)
-[![DOI](https://zenodo.org/badge/DOI/zenodo.17917855/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.17917855)
+[![DOI](https://zenodo.org/badge/DOI/zenodo.17917855/zenodo.17917855.svg)](https://doi.org/10.5281/zenodo.17917855)
+
 
 
 ```Python
